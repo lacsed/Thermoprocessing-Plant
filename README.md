@@ -21,7 +21,7 @@ Contributions to the thermoprocessing plant project are welcome. If you have sug
 ## Demo Video
 Check out the demo video below to see the thermoprocessing plant in action:
 
-[![Plant Demo](https://i.ytimg.com/an_webp/k9jxNk2qpIw/mqdefault_6s.webp?du=3000&sqp=CJy4kLIG&rs=AOn4CLBSkjjoL-eooDa_c5ThXoHqJ02qlQ)](https://youtu.be/k9jxNk2qpIw?si=T5pjBfbmDiznJSXw)
+[![Plant Demo](https://i.ytimg.com/an_webp/k9jxNk2qpIw/mqdefault_6s.webp?du=3000&sqp=CKTYk7IG&rs=AOn4CLDBO_ncY1Nsaqap1NpN2uyEowkwXw)](https://youtu.be/k9jxNk2qpIw?si=T5pjBfbmDiznJSXw)
 
 
 ## Author
