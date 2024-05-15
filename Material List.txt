@@ -1,0 +1,14 @@
+1X Arduino Nano
+1X Metal geared 9g servo
+1X Reed Switch
+3X 5V stepper motors
+3X ULN2003 stepper drivers
+1X 1n4007 diode
+1X 2200 uF eletrolitic capacitor
+1X Infrared reflection sensor module
+1x BC337 transistor
+1X Green LED
+4X Blue LEDs
+10X Red LEDs
+3X Yellow LEDs
+4X HD drive bearings
